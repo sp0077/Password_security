@@ -1,0 +1,36 @@
+Password Security & Strength Evaluation Report
+Author: Sarvesh
+Date: June 3, 2025
+
+1. Introduction
+Passwords serve as the first line of defense in protecting user data and systems. Weak passwords are vulnerable to cyber threats, including brute force and dictionary attacks. This report explores password complexity, strength evaluation, and security best practices.
+
+
+2. Experiment & Results
+We tested three passwords with varying complexity using an online password strength checker:
+| Password | Strength Score | Feedback | 
+| password123 | Low (Weak) | Common, easy to guess | 
+| P@ssw0rd!# | Medium | Better complexity but still predictable | 
+| G!v3m3Secur1ty@2025 | High (Strong) | Excellent mix of characters & length | 
+
+
+Observations:
+- Longer passwords with a mix of characters significantly improve security.
+- Simple passwords are easily cracked using automated tools.
+- Adding special symbols and numbers enhances strength.
+3. Best Practices for Strong Passwords
+ Minimum 12 characters
+ Mix of uppercase, lowercase, numbers, symbols
+ Avoid common words and predictable patterns
+ Use passphrases (e.g., "Sunset@Mountain#Waves2025")
+ Enable multi-factor authentication (MFA)
+
+4. Common Password Attack Methods
+🔹 Brute Force Attack: Hackers try all possible combinations until they succeed.
+🔹 Dictionary Attack: Uses a list of commonly used passwords to quickly gain access.
+🔹 Credential Stuffing: Exploits previously leaked passwords on multiple accounts.
+
+5. Conclusion
+Password complexity is critical in reducing the risk of unauthorized access. By following best practices and incorporating multi-factor authentication, users can significantly enhance their security. Organizations must also enforce strong password policies to mitigate cyber risks effectively.
+
+
